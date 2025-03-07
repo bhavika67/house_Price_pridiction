@@ -17,13 +17,5 @@ This project develops a machine learning model capable of predicting house price
 **Model Evaluation:** The project assesses the performance of the regression model using evaluation metrics such as R-squared error and mean absolute error. R-squared error measures the proportion of the variance in the target variable that can be explained by the model, while mean absolute error quantifies the average difference between the predicted and actual house prices. These metrics provide insights into the model's accuracy and precision. Additionally, a scatter plot is created to visualize the predicted prices against the actual prices.
 
 
-## Future Work
 
-* Explore more advanced model architectures (e.g., deep learning models)
-* Incorporate additional features (e.g., neighborhood demographics, school district ratings)
-* Improve model interpretability through techniques like SHAP or LIME
-
-## Contributing
-
-We welcome contributions to this project! Feel free to submit issues or pull requests.
 
